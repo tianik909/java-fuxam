@@ -35,6 +35,13 @@ public class DataTypes {
          * because it will be treated as Integer
          */
 
+        //char stands for character
+        char CharLetter = 'a';
+        System.out.println(CharLetter);
+        /*NOTE : single quote is a must
+         *
+         */
+
 
     }
 }
