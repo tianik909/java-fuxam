@@ -28,5 +28,13 @@ public class DataTypes {
         System.out.println(DoubleNumber);
         //SEE!!! no 'f' this time , you got it
 
+        boolean BoolNumber = true;
+        System.out.println(BoolNumber);
+        /*NOTE : I must type boolean not "bool"
+         *trying to assign 1 or 0 will result into error
+         * because it will be treated as Integer
+         */
+
+
     }
 }
