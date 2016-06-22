@@ -15,6 +15,7 @@ public class DataTypes {
         System.out.println(NormalNumber);
         //this prints out the value of NormalNumber
 
+        //float stands for floating point number
         float FloatNumber = 9.1f;
         System.out.println(FloatNumber);
         /*this prints out the value of FloatNumber
@@ -22,6 +23,10 @@ public class DataTypes {
         *REASON : java assumes float to be double by default
         * so to override it , I added the 'f' at the end
         */
+
+        double DoubleNumber = 9.1;
+        System.out.println(DoubleNumber);
+        //SEE!!! no 'f' this time , you got it
 
     }
 }
