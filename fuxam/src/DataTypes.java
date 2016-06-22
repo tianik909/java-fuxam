@@ -9,5 +9,8 @@ public class DataTypes {
         //int stands for integer
         int NormalNumber = 9;
 
+        System.out.println(NormalNumber);
+        //this prints out the value of NormalNumber
+
     }
 }
