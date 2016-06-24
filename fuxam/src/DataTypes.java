@@ -39,8 +39,13 @@ public class DataTypes {
         char CharLetter = 'a';
         System.out.println(CharLetter);
         /*NOTE : single quote is a must
-         *
+         *numbers are also characters
+         * in java , UNICODE is used
          */
+
+        long LongNumber = 100000000;
+        System.out.println(LongNumber);
+        //this is long
 
 
     }
